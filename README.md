@@ -1,5 +1,7 @@
 # 🛒 Data Analysis with Python: Sales Transactions
 
+##### :bar_chart: Tableau Link: https://public.tableau.com/app/profile/augusto8466/viz/ValueIncSalesDashboard_17392382482890/Painel1?publish=yes
+
 ## 📌 Overview
 This project demonstrates data cleaning and transformation techniques in **Python** using **Pandas** and **NumPy**. The dataset contains sales transactions, and we apply various operations such as feature engineering, text processing, and merging external data.
 
